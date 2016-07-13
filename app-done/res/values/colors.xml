@@ -42,11 +42,4 @@
     <color name="pressed_democast">#CC33B5E5</color>
     <color name="green">#1E9618</color>
 
-    <!-- Expanded Controls -->
-    <color name="cast_activity_progress_text_color">#E5FFFFFF</color>
-    <color name="cast_activity_line1_text_color">#E5FFFFFF</color>
-    <color name="cast_activity_line2_text_color">#E5AAAAAA</color>
-    <color name="cast_activity_background_color">#4D000000</color>
-    <color name="cast_activity_text_color">#FFFFFF</color>
-
 </resources>
